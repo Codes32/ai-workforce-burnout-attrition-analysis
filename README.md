@@ -19,11 +19,6 @@ The project combines **SQL analysis and Power BI visualization** to generate act
 
 ---
 
-## Dashboard Preview
-![Dashboard](ai_burnout_attrition_dashboard.png)
-
----
-
 ## Key Metrics
 - Total Employees
 - High Risk Employees
@@ -38,5 +33,5 @@ The project combines **SQL analysis and Power BI visualization** to generate act
 3. **Burnout levels vary across countries**, with Netherlands and Singapore showing slightly higher scores.
 
 ---
-GROUP BY remote_work_type
-ORDER BY avg_burnout_score DESC;
+## Dashboard Preview
+![Dashboard](ai_burnout_attrition_dashboard.png)
