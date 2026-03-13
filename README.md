@@ -12,8 +12,6 @@ The project combines **SQL analysis and Power BI visualization** to generate act
 - SQL (MySQL)
 - Power BI
 - Data Visualization
-- Workforce Analytics
-
 ---
 
 ## Key Metrics
