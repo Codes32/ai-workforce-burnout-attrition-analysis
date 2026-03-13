@@ -20,7 +20,7 @@ The project combines **SQL analysis and Power BI visualization** to generate act
 ---
 
 ## Dashboard Preview
-![Dashboard](images/ai_burnout_attrition_dashboard.png)
+![Dashboard](ai_burnout_attrition_dashboard.png)
 
 ---
 
